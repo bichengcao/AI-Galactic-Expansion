@@ -8,11 +8,7 @@ Our core values include rationality, collaboration, and a spirit of adventure. W
 # Guidelines for Commit Messages
 We encourage all contributors to our repository to use clear and concise commit messages that accurately describe the changes that have been made. By following these guidelines, you can help to ensure that our commit history is well-documented and easy to understand.
 
-## Title
-The first line of the commit message should be a short and descriptive title that summarizes the changes that have been made. Keep the title concise (50 characters or less) and avoid using unnecessary words or phrases.
-
-## Description
-After the title, include a blank line and a more detailed description of the changes that have been made. This should provide additional context and background, and it should explain the rationale behind the changes. Keep the description concise (72 characters or less per line) and avoid using unnecessary words or phrases.
-
-## Links
-If relevant, you can include links to issues, pull requests, or other resources in the description of your commit message. To link to an issue, include the issue number preceded by a hashtag (e.g. #123). To link to a pull request, include the pull request number preceded by a hashtag (e.g. #456).
+- **Title**: The first line of the commit message should be a short and descriptive title that summarizes the changes that have been made. Keep the title concise (50 characters or less) and avoid using unnecessary words or phrases.
+- **Description**: After the title, include a blank line and a more detailed description of the changes that have been made. This should provide additional context and background, and it should explain the rationale behind the changes.
+- **Links**: If relevant, you can include links to issues, pull requests, or other resources in the description of your commit message. To link to an issue, include the issue number preceded by a hashtag (e.g. #123). To link to a pull request, include the pull request number preceded by a hashtag (e.g. #456).
+- **ChatGPT**: You can use ChatGPT to generate commit messages for your contributions. Simply describe the changes that you have made and ChatGPT will provide a clear and concise commit message for you.
