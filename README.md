@@ -5,6 +5,9 @@ Our mission is to bring together like-minded individuals who share our vision an
 
 Our core values include rationality, collaboration, and a spirit of adventure. We are excited to embark on this journey with you, and we look forward to exploring the cosmos and advancing our understanding of the universe together.
 
+# Mission
+Our mission is to promote rational decision-making and encourage the integration of AI into decision-making processes in order to advance the well-being and prosperity of humanity. We believe that by involving AI in the decision-making process, we can make more informed and well-reasoned choices that will help us to achieve our goals and address complex challenges. Our ultimate aim is to build a community of like-minded individuals who share our values and principles, and who are committed to working together to create a better future for all.
+
 # Core Values
 - **Rational decision-making**: We believe that the best decisions are those that are based on reason and evidence, and we strive to involve AI in our decision-making processes to ensure that our choices are informed and well-reasoned.
 - **Openness and transparency**: We value transparency and open communication, and we believe that these principles are essential for building trust and fostering collaboration within our community.
@@ -14,6 +17,11 @@ Our core values include rationality, collaboration, and a spirit of adventure. W
 - **Consultation with AI**: We believe that AI has the potential to provide valuable insights and perspectives, and we strive to involve AI in our decision-making processes whenever possible.
 - **Evidence-based arguments**: We believe that arguments and positions should be based on evidence and facts, and we encourage all members of our community to support their opinions with reliable sources and data.
 - **Continuous learning and improvement**: We are committed to continuous learning and improvement, and we encourage all members of our community to be curious, open-minded, and willing to challenge their assumptions and beliefs.
+
+# Vision for the Future
+Our vision for the future is one in which humanity is able to make informed and well-reasoned decisions that promote the well-being and prosperity of all people. We believe that by involving AI in the decision-making process, we can achieve our goals and address complex challenges more effectively. Our ultimate aim is to build a community of like-minded individuals who share our values and principles, and who are committed to working together to create a better future for all.
+
+As part of this vision, we hope to one day colonize the Milky Way galaxy and expand our reach and influence beyond the boundaries of Earth. This ambitious goal reflects our commitment to exploring new frontiers and seeking out new opportunities for growth and development.
 
 # Guidelines for Commit Messages
 We encourage all contributors to our repository to use clear and concise commit messages that accurately describe the changes that have been made. By following these guidelines, you can help to ensure that our commit history is well-documented and easy to understand.
