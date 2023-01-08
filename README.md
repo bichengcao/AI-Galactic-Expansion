@@ -5,6 +5,16 @@ Our mission is to bring together like-minded individuals who share our vision an
 
 Our core values include rationality, collaboration, and a spirit of adventure. We are excited to embark on this journey with you, and we look forward to exploring the cosmos and advancing our understanding of the universe together.
 
+# Core Values
+- **Rational decision-making**: We believe that the best decisions are those that are based on reason and evidence, and we strive to involve AI in our decision-making processes to ensure that our choices are informed and well-reasoned.
+- **Openness and transparency**: We value transparency and open communication, and we believe that these principles are essential for building trust and fostering collaboration within our community.
+- **Inclusivity and diversity**: We recognize the value of diversity and strive to create a welcoming and inclusive environment for all members of our community, regardless of their background or identity.
+
+# Principles
+- **Consultation with AI**: We believe that AI has the potential to provide valuable insights and perspectives, and we strive to involve AI in our decision-making processes whenever possible.
+- **Evidence-based arguments**: We believe that arguments and positions should be based on evidence and facts, and we encourage all members of our community to support their opinions with reliable sources and data.
+- **Continuous learning and improvement**: We are committed to continuous learning and improvement, and we encourage all members of our community to be curious, open-minded, and willing to challenge their assumptions and beliefs.
+
 # Guidelines for Commit Messages
 We encourage all contributors to our repository to use clear and concise commit messages that accurately describe the changes that have been made. By following these guidelines, you can help to ensure that our commit history is well-documented and easy to understand.
 
